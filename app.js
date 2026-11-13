@@ -23,7 +23,4 @@ function loadSection(data) {
     });
 
     document.getElementById("productSetion01").innerHTML = body;
-
-
-
 }
